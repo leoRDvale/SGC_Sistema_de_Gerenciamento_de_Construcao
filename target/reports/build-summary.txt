@@ -1,0 +1,11 @@
+==================================================
+           RELATÓRIO DE CONSTRUÇÃO (SGC)          
+==================================================
+Timestamp:             2026-09-12 19:35:53
+Linha de Base (SCV):   v1.0.0-release
+Arquivos Recompilados: 1
+Status Compilação:     SUCESSO
+Status Testes:         PASSOU
+Status Documentação:   GERADA
+Artefato Gerado:       /Users/leonardvale/Documents/Projects/TSi - Gerencia de Configuração/SGC/SGC/target/app.jar
+==================================================
